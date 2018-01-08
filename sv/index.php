@@ -196,7 +196,7 @@ include_once '../socialmobile.php';
 <div class="row">
 <div class="col-md-8 col-md-push-2">
 <div class="heading-title small-heading center">
-<h2>Fördelar med<span>BitcoinZ</span></h2>
+<h2>Fördelar med <span>BitcoinZ</span></h2>
 <!--<p>Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum</p>-->
 </div>
 </div>
